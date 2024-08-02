@@ -69,6 +69,14 @@ This project currently does not have a specified license. As a result, no explic
 
 If you intend to contribute to this project, please be aware that contributions will be considered for inclusion in the project but will not be covered by a formal license until one is added. Your contributions will be subject to the terms and conditions outlined in the project’s documentation at that time.
 
+#### Fellow Developers
+- Abante, Z.
+- Castañeda, D.
+- Delos Reyes, C.
+- Gomez, W.
+- Mendoza, R.
+- Quindao, W.
+
 For any additional questions or concerns, please do not hesitate to reach out to us.
 
 <br>
