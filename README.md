@@ -17,8 +17,7 @@ Project RAISON is a program simulator for the different data structures and algo
 
 ## 📸 Screenshots
 
-
-
+![image](https://github.com/user-attachments/assets/4c1b878d-f062-41d8-a639-d5254bab3770)
 
 ## ⛳ Getting Started
 
